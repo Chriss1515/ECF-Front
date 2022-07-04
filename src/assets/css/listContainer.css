@@ -1,0 +1,11 @@
+
+.list ul {
+    color:cadetblue;
+  }
+.list-li{
+    border: 1px solid black;
+    padding-bottom: 50px;
+    padding: 10px;
+    width: 350px;
+    background-color: aqua;
+}
